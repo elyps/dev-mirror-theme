@@ -1,0 +1,26 @@
+{
+  "title": "Dev Mirror",
+  "name": "dev-mirror",
+  "description": "Dev Mirror Theme for Brackets. A beautiful, middle-contrast dark theme optimized for development.",
+  "version": "2.5.0",
+  "author": "Bastian Fischer <kontakt@bastian-fischer.dev> (https://www.bastian-fischer.dev)",
+  "homepage": "https://github.com/elyps/dev-mirror-brackets",
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "dark",
+    "php",
+    "html",
+    "css",
+    "dev-mirror"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/elyps/dev-mirror-brackets.git"
+  },
+  "theme": {
+    "file": "main.less",
+    "dark": true
+  },
+  "screenshot": "dev-mirror.png"
+}

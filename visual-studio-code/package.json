@@ -1,0 +1,36 @@
+{
+  "name": "dev-mirror-vscode",
+  "displayName": "Dev Mirror Syntax Theme",
+  "description": "The optimized dark theme for development.",
+  "version": "1.8.6",
+  "icon": "images/dev-mirror.png",
+  "publisher": "bastianfischer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elyps/dev-mirror-vscode"
+  },
+  "bugs": {
+    "url": "https://github.com/elyps/dev-mirror-vscode/issues",
+    "email": "kontakt@bastian-fischer.dev"
+  },
+  "engines": {
+    "vscode": "*"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dev Mirror",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dev-mirror.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "da62dfba-5132-4928-a127-0ef0c8af08c3",
+    "publisherId": "1382f5b7-7cf4-4ace-8ec1-ce9e27570ccb",
+    "publisherDisplayName": "Bastian Fischer"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "dev-mirror-chrome-devtools",
+  "version": "1.1.1",
+  "description": "Dev Mirror for Chrome DevTools",
+  "homepage": "https://elyps.github.io/dev-mirror/",
+  "main": "Gruntfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elyps/dev-mirror-chrome-devtools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elyps/dev-mirror-chrome-devtools/issues"
+  },
+  "scripts": {
+    "release": "grunt package",
+    "test": "grunt"
+  },
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-bump": "^0.8.0",
+    "grunt-contrib-compress": "^1.6.0",
+    "grunt-contrib-less": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  },
+  "author": "Bastian Fischer <kontakt@bastian-fischer.dev>",
+  "license": "MIT"
+}
