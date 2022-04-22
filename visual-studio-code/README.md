@@ -1,4 +1,4 @@
-![Dev Mirror Icon](images/dev-mirror.svg)
+![Dev Mirror Banner](images/dev-mirror.svg)
 
 # Dev Mirror Theme
 
